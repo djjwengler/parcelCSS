@@ -6,9 +6,9 @@
 
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Merriweather" rel="stylesheet" type="text/css">
 
-    <link rel="stylesheet" href="/index.fd58574d.css">
+    <link rel="stylesheet" href="/index.HASH_REF_0d8524a15cd50b7f068fb1cefd58574d.css">
     <!-- Resource style -->
-    <script src="/index.aaafe13f.js"></script>
+    <script src="/index.HASH_REF_d1d6d1f9d6c205aa98cd1216aaafe13f.js"></script>
     <!-- Modernizr -->
     <title>Style Guide | CodyHouse</title>
   </head>
@@ -156,17 +156,17 @@
         <h2>Wireframes</h2>
         <div class="cd-box">
           <figure>
-            <img src="/wireframe-small.5b6b76ca.png" alt="Small screen wireframe">
+            <img src="/wireframe-small.HASH_REF_9295696175448fe7213eab5d5b6b76ca.png" alt="Small screen wireframe">
             <figcaption>Small screen</figcaption>
           </figure>
           <figure>
-            <img src="/wireframe-large.df066ff5.png" alt="Large screen wireframe">
+            <img src="/wireframe-large.HASH_REF_b0a1ecc8935be05dcb22bec6df066ff5.png" alt="Large screen wireframe">
             <figcaption>Large screen</figcaption>
           </figure>
         </div>
       </section>
     </main>
 
-    <script src="/index.9626f0bb.js"></script>
+    <script src="/index.HASH_REF_9c44180a18ad66eda0f30d699626f0bb.js"></script>
   </body>
 </html>

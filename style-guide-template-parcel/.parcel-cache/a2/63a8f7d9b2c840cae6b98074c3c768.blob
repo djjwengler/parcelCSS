@@ -4,16 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Merriweather" rel="stylesheet" type="text/css">
+    <link href="9797db890ab115df64f322f6ec8c2cdc" rel="stylesheet" type="text/css">
 
-    <link rel="stylesheet" href="/index.fd58574d.css">
+    <link rel="stylesheet" href="11a54e647e37814b135a6f0ff22b5f24">
     <!-- Resource style -->
-    <script src="/index.aaafe13f.js"></script>
+    <script src="932d90d3eeeec95f906d78b52546ca5e"></script>
     <!-- Modernizr -->
     <title>Style Guide | CodyHouse</title>
   </head>
   <body>
     <header>
+
+      <div class="cd-logo"><img src="183d5a41924f9591938233cbc386b96d" alt="Logo"></div>
 
       <nav>
         <ul class="cd-main-nav">
@@ -28,7 +30,7 @@
         <!-- cd-main-nav -->
       </nav>
 
-      <a href="/assets/assets-download-file.zip" class="cd-download"><span>Download assets</span></a>
+      <a href="0c1ad1e7b10aa4131796b0da0453a5c6" class="cd-download"><span>Download assets</span></a>
       <a href="#0" class="cd-nav-trigger">Menu<span></span></a>
     </header>
 
@@ -122,7 +124,7 @@
            Background images:
           
           </p><ul>
-            <li><a href="https://unsplash.com/photos/xt79nQxc9Q0">Background</a>
+            <li><a href="ae77ea393def4d00fe5b4ddac010a674">Background</a>
               </li>
           </ul><p></p>
           <br>
@@ -131,22 +133,22 @@
           
           </p><ul>
             <li>
-              <a href="https://unsplash.com/photos/soLEw77Napo">Camera</a>
+              <a href="bf8f1cbaf95e0011176e736301f77dca">Camera</a>
             </li>
             <li>
-              <a href="https://unsplash.com/photos/ZMZHcvIVgbg">Clock</a>
+              <a href="8108a270a76329020d8a4f6eed8ef8ee">Clock</a>
             </li>
             <li>
-              <a href="https://unsplash.com/photos/mk7D-4UCfmg">Typewriter 1</a>
+              <a href="c2c78bcb4d50a7cc2b2783e9c751df99">Typewriter 1</a>
             </li>
             <li>
-              <a href="https://unsplash.com/photos/E0Spm6XXn2Y">Typewriter 2</a>
+              <a href="f19b24e8b5ee3b002adc9c70c6620357">Typewriter 2</a>
             </li>
             <li>
-              <a href="https://unsplash.com/photos/-rkf6Ducli8">Newspaper Man</a>
+              <a href="57862033de19b1fca06bb687e4e8bed3">Newspaper Man</a>
             </li>
             <li>
-              <a href="https://unsplash.com/photos/ElyQardHsRs">Vintage Car</a>
+              <a href="b3a85fbec9586fca6e8dc423da04beea">Vintage Car</a>
             </li>
           </ul><p></p>
         </div>
@@ -156,17 +158,17 @@
         <h2>Wireframes</h2>
         <div class="cd-box">
           <figure>
-            <img src="/wireframe-small.5b6b76ca.png" alt="Small screen wireframe">
+            <img src="1451e789e3872fda7929dd3424312531" alt="Small screen wireframe">
             <figcaption>Small screen</figcaption>
           </figure>
           <figure>
-            <img src="/wireframe-large.df066ff5.png" alt="Large screen wireframe">
+            <img src="26ace69167f0f7d469536d28c94bcc17" alt="Large screen wireframe">
             <figcaption>Large screen</figcaption>
           </figure>
         </div>
       </section>
     </main>
 
-    <script src="/index.9626f0bb.js"></script>
+    <script src="109840a1dc8a9cfb9428801d6c53805a"></script>
   </body>
 </html>

@@ -51,5 +51,15 @@ main > h1 {
     color: $color-5;
   }
 }
+/* -------------------------------- 
+
+xWireframes
+
+-------------------------------- */
+.cd-wireframes-images{
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto;
+}
 
 @import 'partials/basic-style';

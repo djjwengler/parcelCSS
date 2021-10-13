@@ -23,29 +23,36 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline;
 }
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section, main {
   display: block;
 }
+
 body {
   line-height: 1;
 }
+
 ol, ul {
   list-style: none;
 }
+
 blockquote, q {
   quotes: none;
 }
+
 blockquote:before, blockquote:after,
 q:before, q:after {
   content: "";
   content: none;
 }
+
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
 /* -------------------------------- 
 
 xTypography 
@@ -54,11 +61,13 @@ xTypography
 .main__h1 {
   font-family: "Cinzel Decorative", serif;
 }
+
 h1,
 h2 {
   font-family: "Nunito", sans-serif;
   color: #0D1F2D;
 }
+
 h1 {
   font-size: 2.4rem;
   font-weight: 300;
@@ -75,6 +84,7 @@ h1 {
     font-size: 4rem;
   }
 }
+
 h2 {
   font-weight: bold;
   text-transform: uppercase;
@@ -86,10 +96,12 @@ h2 {
     margin: 1em 0 1.4em;
   }
 }
+
 section > h2::before {
   /* number before each section title */
   color: #817265;
 }
+
 p {
   font-size: 1.4rem;
   line-height: 1.4;
@@ -105,6 +117,7 @@ p a {
     line-height: 1.6;
   }
 }
+
 /* -------------------------------- 
 
 xNavigation 
@@ -113,11 +126,13 @@ xNavigation
 header {
   background-color: #0d1f2d;
 }
+
 .cd-logo {
   /* logo box style */
   background-color: #5f8ee4;
   width: 120px;
 }
+
 @media only screen and (min-width: 1024px) {
   .cd-logo {
     width: 180px;
@@ -127,10 +142,12 @@ header {
   /* main navigation background color - full screen on small devices */
   background: #0d1f2d;
 }
+
 .cd-main-nav li a {
   color: #dfd7d3;
   border-color: #262627;
 }
+
 @media only screen and (min-width: 1024px) {
   .cd-main-nav li a {
     color: #dfd7d3;
@@ -149,49 +166,62 @@ header {
   /* hamburger menu */
   background-color: #dfd7d3;
 }
+
 .cd-nav-trigger span::before, .cd-nav-trigger span::after {
   /* upper and lower lines */
   background-color: #dfd7d3;
 }
+
 .nav-is-visible .cd-nav-trigger span {
   /* hide line in the center on mobile when nav is visible */
   background-color: rgba(255, 255, 255, 0);
 }
+
 .nav-is-visible .cd-nav-trigger span::before, .nav-is-visible .cd-nav-trigger span::after {
   /* preserve visibility of upper and lower lines - close icon */
   background-color: #dfd7d3;
 }
+
 .cd-download {
   /* download button top-right visible on big devices */
   background-color: #323234;
 }
+
 .no-touch .cd-download:hover {
   background-color: #3f3f41;
 }
+
 .cd-download span {
   /* tooltip */
   background: #5f8ee4;
   color: #ffffff;
 }
+
 .cd-download span::before {
   /* right arrow color */
   border-color: #5f8ee4;
 }
+
 .cd-box h3 {
   color: #0D1F2D;
 }
+
 .cd-primary-nav a, .cd-other-nav a {
   color: #0D1F2D;
 }
+
 .cd-primary-nav a:visited, .cd-other-nav a:visited {
   color: #550527;
 }
+
 .cd-primary-nav a:hover, .cd-other-nav a:hover {
   color: white;
 }
+
 .cd-primary-nav a:active, .cd-other-nav a:active {
   color: #550527;
 }
+
 /* -------------------------------- 
 
 xButtons 
@@ -240,16 +270,19 @@ xButtons
     font-size: 1.6rem;
   }
 }
+
 .cd-buttons .cd-box:nth-of-type(2) span {
   /* CSS class name color */
   color: #756858;
 }
+
 .image__thumb {
   width: 300px;
   height: auto;
   display: block;
   margin-bottom: 20px;
 }
+
 /* -------------------------------- 
 
 xBackground 
@@ -259,6 +292,7 @@ body {
   /* this is the page background */
   background-color: #D4CAC4;
 }
+
 /* -------------------------------- 
 
 xPatterns
@@ -272,6 +306,7 @@ xPatterns
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
   padding: 6px;
 }
+
 /* -------------------------------- 
 
 xPage title 
@@ -287,16 +322,17 @@ main > h1 {
     color: #D4CAC4;
   }
 }
+
 /* -------------------------------- 
 
 xWireframes
 
 -------------------------------- */
-.cd-wireframes-images {
+.cd-wireframes {
   display: grid;
   grid-template-columns: auto auto;
-  grid-template-rows: auto;
 }
+
 /* -------------------------------- 
 
 xBasic style
@@ -307,27 +343,34 @@ xBasic style
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
 html * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 html {
   font-size: 62.5%;
 }
+
 body {
   font-size: 1.6rem;
   font-family: "Playfair Display", sans-serif;
 }
+
 a {
   text-decoration: none;
 }
+
 img {
   max-width: 100%;
 }
+
 input, textarea, select {
   font-family: "Playfair Display", sans-serif;
   font-size: 1.6rem;
 }
+
 header {
   position: fixed;
   height: 50px;
@@ -350,6 +393,7 @@ header nav {
     display: block;
   }
 }
+
 .cd-logo {
   display: inline-block;
   height: 100%;
@@ -371,6 +415,7 @@ header nav {
     margin-left: 5%;
   }
 }
+
 .cd-nav-trigger {
   display: block;
   position: absolute;
@@ -431,6 +476,7 @@ header nav {
     display: none;
   }
 }
+
 .cd-main-nav {
   position: fixed;
   top: 0;
@@ -496,6 +542,7 @@ header nav {
     display: none;
   }
 }
+
 .nav-is-visible .cd-nav-trigger span::before {
   -webkit-transform: translateY(0) rotate(-45deg);
   -moz-transform: translateY(0) rotate(-45deg);
@@ -517,13 +564,14 @@ header nav {
   -o-transform: translateY(0);
   transform: translateY(0);
 }
+
 .cd-download {
   position: absolute;
   top: 0;
   right: 0;
   height: 100%;
   width: 80px;
-  background-image: url("icon-download.43a1d2d2.svg");
+  background-image: url("../assets/icon-download.svg");
   background-position: center center;
   background-repeat: no-repeat;
   display: none;
@@ -582,6 +630,7 @@ header nav {
     right: 5%;
   }
 }
+
 main {
   width: 90%;
   max-width: 1024px;
@@ -614,6 +663,7 @@ main > h1 {
     z-index: 20;
   }
 }
+
 section {
   margin: 3em 0;
 }
@@ -667,6 +717,7 @@ section:nth-of-type(10) h2::before {
     margin-right: 0;
   }
 }
+
 /* xBranding section - basic style */
 .cd-branding .cd-box {
   margin-bottom: 1em;
@@ -718,6 +769,7 @@ section:nth-of-type(10) h2::before {
     margin-right: 3em;
   }
 }
+
 /* xColor section - basic style */
 .cd-colors li {
   text-align: center;
@@ -809,6 +861,7 @@ section:nth-of-type(10) h2::before {
     margin-right: 0;
   }
 }
+
 .cd-typography .cd-box,
 .cd-buttons .cd-box,
 .cd-icons .cd-box,
@@ -823,11 +876,13 @@ section:nth-of-type(10) h2::before {
     padding: 2em;
   }
 }
+
 /* xTypography section - basic style */
 .cd-typography h1::before {
   content: "Aa - ";
   color: #756858;
 }
+
 .cd-buttons .cd-box:first-of-type {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
@@ -845,6 +900,7 @@ section:nth-of-type(10) h2::before {
     margin: 1em;
   }
 }
+
 /* xIcons section - basic style */
 .cd-icons li {
   display: inline-block;
@@ -853,29 +909,30 @@ section:nth-of-type(10) h2::before {
   margin: 1em;
 }
 .cd-icons .cd-icon-1 {
-  background-image: url("icon-1.f09de9b2.svg");
+  background-image: url("../assets/icons/icon-1.svg");
 }
 .cd-icons .cd-icon-2 {
-  background-image: url("icon-2.74505a7a.svg");
+  background-image: url("../assets/icons/icon-2.svg");
 }
 .cd-icons .cd-icon-3 {
-  background-image: url("icon-3.bcc4af98.svg");
+  background-image: url("../assets/icons/icon-3.svg");
 }
 .cd-icons .cd-icon-4 {
-  background-image: url("icon-4.222e6830.svg");
+  background-image: url("../assets/icons/icon-4.svg");
 }
 .cd-icons .cd-icon-5 {
-  background-image: url("icon-5.dd0f77d5.svg");
+  background-image: url("../assets/icons/icon-5.svg");
 }
 .cd-icons .cd-icon-6 {
-  background-image: url("icon-6.259c8c0a.svg");
+  background-image: url("../assets/icons/icon-6.svg");
 }
 .cd-icons .cd-icon-7 {
-  background-image: url("icon-7.efa0e026.svg");
+  background-image: url("../assets/icons/icon-7.svg");
 }
 .cd-icons .cd-icon-8 {
-  background-image: url("icon-8.ef29f1a8.svg");
+  background-image: url("../assets/icons/icon-8.svg");
 }
+
 /* xForm section - basic style */
 .cd-form input[type=text],
 .cd-form .cd-input-wrapper {
@@ -888,6 +945,7 @@ section:nth-of-type(10) h2::before {
 .cd-form select::-ms-expand {
   display: none;
 }
+
 @-moz-document url-prefix() {
   /* hide custom arrow on Firefox */
   .cd-select::after {
@@ -897,4 +955,3 @@ section:nth-of-type(10) h2::before {
 .no-csstransitions .cd-select::after {
   display: none;
 }
-/*# sourceMappingURL=index.fd58574d.css.map */

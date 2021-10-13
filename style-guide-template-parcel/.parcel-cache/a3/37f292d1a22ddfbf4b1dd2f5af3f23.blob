@@ -1,18 +1,14 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link
-      href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Merriweather"
-      rel="stylesheet"
-      type="text/css"
-    />
+    <link href="9797db890ab115df64f322f6ec8c2cdc" rel="stylesheet" type="text/css">
 
-    <link rel="stylesheet" href="scss/style-guide.scss" />
+    <link rel="stylesheet" href="11a54e647e37814b135a6f0ff22b5f24">
     <!-- Resource style -->
-    <script src="js/modernizr.js"></script>
+    <script src="932d90d3eeeec95f906d78b52546ca5e"></script>
     <!-- Modernizr -->
     <title>Style Guide | CodyHouse</title>
   </head>
@@ -32,9 +28,7 @@
         <!-- cd-main-nav -->
       </nav>
 
-      <a href="assets/assets-download-file.zip" class="cd-download"
-        ><span>Download assets</span></a
-      >
+      <a href="0c1ad1e7b10aa4131796b0da0453a5c6" class="cd-download"><span>Download assets</span></a>
       <a href="#0" class="cd-nav-trigger">Menu<span></span></a>
     </header>
 
@@ -127,59 +121,59 @@
           <p>
            Background images:
           
-          <ul>
-            <li><a href="https://unsplash.com/photos/xt79nQxc9Q0">Background</a>
-              <img class="image__thumb" src="assets\images\annie-spratt-xt79nQxc9Q0-unsplash.jpg" alt="background image">
+          </p><ul>
+            <li><a href="ae77ea393def4d00fe5b4ddac010a674">Background</a>
+              <img class="image__thumb" src="61e7ca3312429de505e6a0f5f2d21015" alt="background image">
               </li>
-          </ul></p>
+          </ul><p></p>
           <br>
           <p>
             Possible images:
           
-          <ul>
+          </p><ul>
             <li>
-              <a href="https://unsplash.com/photos/soLEw77Napo">Camera</a>
-              <img class="image__thumb" src="assets\images\alexander-andrews-soLEw77Napo-unsplash.jpg" alt="camera">
+              <a href="bf8f1cbaf95e0011176e736301f77dca">Camera</a>
+              <img class="image__thumb" src="c27f862799a0227a4d90d8ae472c74c0" alt="camera">
             </li>
             <li>
-              <a href="https://unsplash.com/photos/ZMZHcvIVgbg">Clock</a>
-              <img class="image__thumb" src="assets\images\ales-krivec-ZMZHcvIVgbg-unsplash.jpg" alt="clock">
+              <a href="8108a270a76329020d8a4f6eed8ef8ee">Clock</a>
+              <img class="image__thumb" src="00090ab3182a490692c798e28b539811" alt="clock">
             </li>
             <li>
-              <a href="https://unsplash.com/photos/mk7D-4UCfmg">Typewriter 1</a>
-              <img class="image__thumb" src="assets\images\florian-klauer-mk7D-4UCfmg-unsplash.jpg" alt="typewriter1">
+              <a href="c2c78bcb4d50a7cc2b2783e9c751df99">Typewriter 1</a>
+              <img class="image__thumb" src="8a62418320679bd681ad13a9803bd735" alt="typewriter1">
             </li>
             <li>
-              <a href="https://unsplash.com/photos/E0Spm6XXn2Y">Typewriter 2</a>
-              <img class="image__thumb" src="assets\images\sergey-zolkin-E0Spm6XXn2Y-unsplash.jpg" alt="typewriter2">
+              <a href="f19b24e8b5ee3b002adc9c70c6620357">Typewriter 2</a>
+              <img class="image__thumb" src="918e72b63f3e453026cb70ed64afe078" alt="typewriter2">
             </li>
             <li>
-              <a href="https://unsplash.com/photos/-rkf6Ducli8">Newspaper Man</a>
-              <img class="image__thumb"  src="assets\images\the-new-york-public-library--rkf6Ducli8-unsplash.jpg" alt="newspaper man">
+              <a href="57862033de19b1fca06bb687e4e8bed3">Newspaper Man</a>
+              <img class="image__thumb" src="405ae417c27024650c03605032e84633" alt="newspaper man">
             </li>
             <li>
-              <a href="https://unsplash.com/photos/ElyQardHsRs">Vintage Car</a>
-              <img class="image__thumb" src="assets\images\les-anderson-ElyQardHsRs-unsplash.jpg" alt="vintage car">
+              <a href="b3a85fbec9586fca6e8dc423da04beea">Vintage Car</a>
+              <img class="image__thumb" src="f4bc9a77b303a772213fe235963f5d8b" alt="vintage car">
             </li>
-          </ul></p>
+          </ul><p></p>
         </div>
       </section>
 
       <section id="wireframes" class="cd-wireframes">
         <h2>Wireframes</h2>
-        <div class="cd-box cd-wireframes-images">
+        <div class="cd-box cd-wireframes">
           <figure>
-            <img src="assets/wireframe-small.png" alt="Small screen wireframe" />
+            <img src="1451e789e3872fda7929dd3424312531" alt="Small screen wireframe">
             <figcaption>Small screen</figcaption>
           </figure>
           <figure>
-            <img src="assets/wireframe-large.png" alt="Large screen wireframe" />
+            <img src="26ace69167f0f7d469536d28c94bcc17" alt="Large screen wireframe">
             <figcaption>Large screen</figcaption>
           </figure>
         </div>
       </section>
     </main>
 
-    <script src="js/main.js"></script>
+    <script src="109840a1dc8a9cfb9428801d6c53805a"></script>
   </body>
 </html>

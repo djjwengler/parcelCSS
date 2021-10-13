@@ -180,6 +180,9 @@ header {
 .cd-box h3 {
   color: #0D1F2D;
 }
+.cd-other-nav h3 {
+  margin-top: 10px;
+}
 .cd-primary-nav a, .cd-other-nav a {
   color: #0D1F2D;
 }

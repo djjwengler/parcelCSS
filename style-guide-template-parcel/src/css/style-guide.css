@@ -144,32 +144,32 @@ header {
 }
 
 .cd-main-nav li a {
-  color: #ffffff;
+  color: #dfd7d3;
   border-color: #262627;
 }
 
 @media only screen and (min-width: 1024px) {
   .cd-main-nav li a {
-    color: white;
+    color: #dfd7d3;
   }
 
   .cd-main-nav li a.selected {
-    color: #ffffff;
+    color: #dfd7d3;
     box-shadow: 0 2px 0 #5f8ee4;
   }
 
   .no-touch .cd-main-nav li a:hover {
-    color: #ffffff;
+    color: #dfd7d3;
   }
 }
 .cd-nav-trigger span {
   /* hamburger menu */
-  background-color: #ffffff;
+  background-color: #dfd7d3;
 }
 
 .cd-nav-trigger span::before, .cd-nav-trigger span::after {
   /* upper and lower lines */
-  background-color: #ffffff;
+  background-color: #dfd7d3;
 }
 
 .nav-is-visible .cd-nav-trigger span {
@@ -179,7 +179,7 @@ header {
 
 .nav-is-visible .cd-nav-trigger span::before, .nav-is-visible .cd-nav-trigger span::after {
   /* preserve visibility of upper and lower lines - close icon */
-  background-color: white;
+  background-color: #dfd7d3;
 }
 
 .cd-download {
@@ -200,6 +200,27 @@ header {
 .cd-download span::before {
   /* right arrow color */
   border-color: #5f8ee4;
+}
+
+.cd-box h3 {
+  color: #0D1F2D;
+  margin-top: 10px;
+}
+
+.cd-primary-nav a, .cd-other-nav a {
+  color: #0D1F2D;
+}
+
+.cd-primary-nav a:visited, .cd-other-nav a:visited {
+  color: #550527;
+}
+
+.cd-primary-nav a:hover, .cd-other-nav a:hover {
+  color: white;
+}
+
+.cd-primary-nav a:active, .cd-other-nav a:active {
+  color: #550527;
 }
 
 /* -------------------------------- 
@@ -256,6 +277,13 @@ xButtons
   color: #756858;
 }
 
+.image__thumb {
+  width: 300px;
+  height: auto;
+  display: block;
+  margin-bottom: 20px;
+}
+
 /* -------------------------------- 
 
 xBackground 
@@ -294,6 +322,17 @@ main > h1 {
     /* title goes into the header on big devices */
     color: #D4CAC4;
   }
+}
+
+/* -------------------------------- 
+
+xWireframes
+
+-------------------------------- */
+.cd-wireframes-images {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto;
 }
 
 /* -------------------------------- 

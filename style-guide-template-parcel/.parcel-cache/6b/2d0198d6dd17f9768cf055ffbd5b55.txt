@@ -1,4 +1,4 @@
-21931
+21932
 74C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\entities132785390129226420 1
 87C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\randombytes\README.md121436361000000000 0
 127C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-colormin\node_modules\source-map\lib\binary-search.js131369414910000000 0
@@ -13,7 +13,7 @@
 135C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\css-declaration-sorter\node_modules\chalk\node_modules\supports-color132785390130655268 1
 75C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\ansi-html132785390131443198 1
 116C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\regenerate-unicode-properties\Script\Glagolitic.js121436361000000000 0
-58C:\Users\allys\parcelCSS\style-guide-template-parcel\build132785425991129051 1
+58C:\Users\allys\parcelCSS\style-guide-template-parcel\build132786273999030389 1
 106C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\highlight.js\lib\languages\moonscript.js121436361000000000 0
 98C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\node-forge\dist\forge.min.js.map121436361000000000 0
 104C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\class-utils\node_modules\is-descriptor132785390127540930 1
@@ -57,7 +57,7 @@
 93C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js-compat\package.json132785390125775648 0
 82C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\lodash\fp\set.js121436361000000000 0
 102C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\delayed-stream\lib\delayed_stream.js130746341440000000 0
-76C:\Users\allys\parcelCSS\style-guide-template-parcel\src\css\style-guide.css132785386959572290 0
+76C:\Users\allys\parcelCSS\style-guide-template-parcel\src\css\style-guide.css132786254240436994 0
 105C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@parcel\node-resolver-core\package.json132785390112722495 0
 133C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-normalize-whitespace\node_modules\color-name\.eslintrc.json131174093250000000 0
 61C:\Users\allys\parcelCSS\style-guide-template-parcel\src\scss132785386961032068 1
@@ -91,7 +91,7 @@
 89C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\svgo\node_modules\chalk132785390117220563 1
 130C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-minify-selectors\node_modules\color-convert\package.json132785390122863439 0
 133C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-minify-selectors\node_modules\source-map\dist\source-map.js131511695990000000 0
-56C:\Users\allys\parcelCSS\style-guide-template-parcel\src132785386962032801 1
+56C:\Users\allys\parcelCSS\style-guide-template-parcel\src132785436415848834 1
 103C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@babel\runtime\helpers\toPrimitive.js121012626000000000 0
 101C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\path-browserify\.github\FUNDING.yml121436361000000000 0
 63C:\Users\allys\parcelCSS\style-guide-template-parcel\readme.pdf132785386958594929 0
@@ -142,7 +142,7 @@
 74C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\dot-prop132785390127341470 1
 81C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\lodash\hasIn.js121436361000000000 0
 98C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\request-promise-native\errors.js121436361000000000 0
-67C:\Users\allys\parcelCSS\style-guide-template-parcel\src\index.html132785421158992739 0
+67C:\Users\allys\parcelCSS\style-guide-template-parcel\src\index.html132786259112913115 0
 74C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\isobject132785390126822861 1
 89C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\lodash\fp\rangeRight.js121436361000000000 0
 104C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\highlight.js\scss\qtcreator_light.scss121436361000000000 0
@@ -171,7 +171,7 @@
 79C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\serve-handler132785390118896077 1
 118C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\csso\node_modules\css-tree\lib\syntax\node\Atrule.js121436361000000000 0
 118C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-colormin\node_modules\postcss\lib\at-rule.js121436361000000000 0
-70C:\Users\allys\parcelCSS\style-guide-template-parcel\src\scss\partials132785424807325212 1
+70C:\Users\allys\parcelCSS\style-guide-template-parcel\src\scss\partials132786253990489509 1
 137C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-discard-duplicates\node_modules\postcss\lib\css-syntax-error.js121436361000000000 0
 113C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\split2\node_modules\readable-stream\readable.js121436361000000000 0
 135C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-reduce-initial\node_modules\postcss\docs\guidelines\plugin.md121436361000000000 0
@@ -179,7 +179,7 @@
 91C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\es-to-primitive\.eslintrc121436361000000000 0
 100C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-minify-font-values\LICENSE121436361000000000 0
 85C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\argparse\lib\action132785390030033984 1
-78C:\Users\allys\parcelCSS\style-guide-template-parcel\src\scss\style-guide.scss132785426464734070 0
+78C:\Users\allys\parcelCSS\style-guide-template-parcel\src\scss\style-guide.scss132786256907168501 0
 77C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\cross-spawn132785390113869426 1
 104C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\stylehacks\dist\dictionary\browsers.js121436361000000000 0
 112C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-svgo\node_modules\postcss\CHANGELOG.md121436361000000000 0
@@ -202,6 +202,15 @@
 105C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js\features\instance\filter-out.js121436361000000000 0
 88C:\Users\allys\parcelCSS\style-guide-template-parcel\src\scss\partials\_basic-style.scss132785386961763533 0
 91C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\setimmediate\package.json132785390118078271 0
+88C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\optionator\lib\help.js132175490390000000 0
+125C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-modules-values\node_modules\postcss\CONTRIBUTING.md121436361000000000 0
+106C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\csso\lib\restructure\3-disjoinRuleset.js121436361000000000 0
+84C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\anymatch\README.md121436361000000000 0
+137C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\attributes.js121436361000000000 0
+108C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\snapdragon\node_modules\debug\src\debug.js131505605660000000 0
+84C:\Users\allys\parcelCSS\style-guide-template-parcel\src\scss\partials\_buttons.scss132786255909466259 0
+82C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\unquote\index.js131580426810000000 0
+112C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\css-select\node_modules\domutils\lib\legacy.js131380691250000000 0
 75C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\saxes\lib132785390009815881 1
 83C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\lodash\fp\drop.js121436361000000000 0
 98C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\has-ansi\node_modules\ansi-regex132785390128398636 1
@@ -238,7 +247,7 @@
 104C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\whatwg-url\lib\URLSearchParams-impl.js121436361000000000 0
 81C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\pn\package.json132785390124868091 0
 117C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\jsdom\lib\jsdom\living\generated\BlobPropertyBag.js121436361000000000 0
-80C:\Users\allys\parcelCSS\style-guide-template-parcel\src\scss\partials\_nav.scss132785426519454913 0
+80C:\Users\allys\parcelCSS\style-guide-template-parcel\src\scss\partials\_nav.scss132786273996978984 0
 121C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-calc\node_modules\source-map\dist\source-map.js131511695990000000 0
 143C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-normalize-timing-functions\node_modules\source-map\lib\source-node.js131509962680000000 0
 107C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\object-copy\node_modules\kind-of\index.js131375939560000000 0
@@ -257,10 +266,6 @@
 104C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@nodelib\fs.stat\src\providers\sync.ts121436361000000000 0
 95C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\sshpk\lib\formats\x509-pem.js131898308050000000 0
 82C:\Users\allys\parcelCSS\style-guide-template-parcel\src\scss\partials\_reset.scss132785386961281395 0
-127C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@babel\helper-member-expression-to-functions\lib\index.js.map121012626000000000 0
-90C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\define-property\index.js131614716480000000 0
-79C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\acorn-globals132785390131433229 1
-100C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\regenerator-transform\lib\visit.js121436361000000000 0
 84C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\readdirp\README.md121436361000000000 0
 98C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\uri-js\dist\esnext\schemes\ws.js121436361000000000 0
 94C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\es-abstract\helpers\every.js121436361000000000 0
@@ -277,7 +282,7 @@
 85C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\html-tags\readme.md131421856570000000 0
 120C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\cssnano-preset-default\node_modules\chalk\package.json132785390129066848 0
 96C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\svgo\plugins\removeComments.js121436361000000000 0
-87C:\Users\allys\parcelCSS\style-guide-template-parcel\src\scss\partials\_typography.scss132785425942324303 0
+87C:\Users\allys\parcelCSS\style-guide-template-parcel\src\scss\partials\_typography.scss132786255203594798 0
 91C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\har-schema\lib\query.json131370181680000000 0
 128C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-discard-comments\node_modules\supports-color\readme.md121436361000000000 0
 80C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\lodash\rest.js121436361000000000 0
@@ -605,6 +610,10 @@
 87C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\defaults\node_modules132785390081372147 1
 104C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js\modules\esnext.number.range.js121436361000000000 0
 90C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\abortcontroller-polyfill132785390131443198 1
+127C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@babel\helper-member-expression-to-functions\lib\index.js.map121012626000000000 0
+90C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\define-property\index.js131614716480000000 0
+79C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\acorn-globals132785390131433229 1
+100C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\regenerator-transform\lib\visit.js121436361000000000 0
 124C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-colormin\node_modules\postcss\docs\architecture.md121436361000000000 0
 99C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js\internals\get-iterator.js121436361000000000 0
 92C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\tr46\lib\mappingTable.json131488781300000000 0
@@ -833,7 +842,7 @@
 89C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-selector-parser132785390114637373 1
 115C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\icss-utils\node_modules\color-name\.eslintrc.json131174093250000000 0
 106C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js\modules\esnext.symbol.dispose.js121436361000000000 0
-80C:\Users\allys\parcelCSS\style-guide-template-parcel\build\index.aaafe13f.js.map132785425991109109 0
+80C:\Users\allys\parcelCSS\style-guide-template-parcel\build\index.aaafe13f.js.map132786273999020416 0
 112C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\regenerate-unicode-properties\General_Category132785390064440003 1
 125C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-svgo\node_modules\postcss\lib\terminal-highlight.js121436361000000000 0
 81C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\performance-now132785390125017681 1
@@ -1891,9 +1900,6 @@
 108C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\tr46\node_modules\punycode\punycode.es6.js131714308010000000 0
 73C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\hash.js132785390126134701 1
 82C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\is-string\.nycrc121436361000000000 0
-72C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\rimraf132785390113131403 1
-117C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\jsdom\lib\jsdom\browser\resources\resource-queue.js121436361000000000 0
-71C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\xtend132785390113011719 1
 123C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\posthtml\node_modules\htmlparser2\lib\MultiplexHandler.js121436361000000000 0
 117C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\hash-base\node_modules\readable-stream\lib\internal132785390016657588 1
 81C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\hex-color-regex132785390128239064 1
@@ -2177,7 +2183,7 @@
 133C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-modules-local-by-default\node_modules\has-flag\package.json132785390122703866 0
 94C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\mdn-data\css\properties.json121436361000000000 0
 102C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\cssstyle\lib\properties\stopColor.js121436361000000000 0
-78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-1.f09de9b2.svg132785425990859774 0
+78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-1.f09de9b2.svg132786273998917431 0
 72C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\is-url132785390126882700 1
 75C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\js-tokens132785390126763009 1
 110C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\css-tree\node_modules\source-map\lib\util.js131509318790000000 0
@@ -2671,6 +2677,9 @@
 100C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\posthtml-parser\coverage\lcov.info121436361000000000 0
 99C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\symbol-tree\lib\SymbolTreeNode.js121436361000000000 0
 75C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\rgb-regex132785390119048235 1
+72C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\rimraf132785390113131403 1
+117C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\jsdom\lib\jsdom\browser\resources\resource-queue.js121436361000000000 0
+71C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\xtend132785390113011719 1
 80C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\.bin\acorn.cmd132785390134869151 0
 101C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js\stable\instance\index-of.js121436361000000000 0
 75C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\ripemd160132785390114657321 1
@@ -3058,7 +3067,7 @@
 96C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js\es\typed-array\fill.js121436361000000000 0
 99C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\es-abstract\2018\IsPropertyKey.js121436361000000000 0
 87C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\rgba-regex\.npmignore130673243740000000 0
-82C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-check.e36d4d8a.svg132785425990929616 0
+82C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-check.e36d4d8a.svg132786256006750915 0
 85C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\yallist\iterator.js121436361000000000 0
 99C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js\features\instance\fill.js121436361000000000 0
 139C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\constructors.js121436361000000000 0
@@ -4010,14 +4019,6 @@
 109C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js\internals\engine-is-webos-webkit.js121436361000000000 0
 103C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\highlight.js\scss\tomorrow-night.scss121436361000000000 0
 132C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\unset-value\node_modules\has-value\node_modules\isobject\README.md131060918360000000 0
-88C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\optionator\lib\help.js132175490390000000 0
-125C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-modules-values\node_modules\postcss\CONTRIBUTING.md121436361000000000 0
-106C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\csso\lib\restructure\3-disjoinRuleset.js121436361000000000 0
-84C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\anymatch\README.md121436361000000000 0
-137C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\attributes.js121436361000000000 0
-108C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\snapdragon\node_modules\debug\src\debug.js131505605660000000 0
-82C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\unquote\index.js131580426810000000 0
-112C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\css-select\node_modules\domutils\lib\legacy.js131380691250000000 0
 108C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js\features\array\virtual\for-each.js121436361000000000 0
 88C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\pn\scripts\generate.js131594838690000000 0
 123C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\jsdom\lib\jsdom\living\navigator\NavigatorPlugins-impl.js121436361000000000 0
@@ -4264,12 +4265,12 @@
 96C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\argparse\lib\action\version.js130992234810000000 0
 122C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\uncss\node_modules\source-map\dist\source-map.min.js.map131511695990000000 0
 87C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\lodash\fp\contains.js121436361000000000 0
-115C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\uncss\node_modules\postcss-selector-parser\API.md121436361000000000 0
+99C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\es-abstract\2019\thisTimeValue.js121436361000000000 0
+121C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\snapdragon\node_modules\is-data-descriptor\package.json132785390118028400 0
 84C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\events\.travis.yml121436361000000000 0
 93C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\cosmiconfig\dist\loaders.js121436361000000000 0
 122C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-reduce-initial\node_modules\postcss\lib\input.js121436361000000000 0
-99C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\es-abstract\2019\thisTimeValue.js121436361000000000 0
-121C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\snapdragon\node_modules\is-data-descriptor\package.json132785390118028400 0
+115C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\uncss\node_modules\postcss-selector-parser\API.md121436361000000000 0
 99C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@parcel\workers\src\childState.js121436361000000000 0
 97C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js\features\map\emplace.js121436361000000000 0
 76C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\terser\lib132785390032886360 1
@@ -9381,7 +9382,7 @@
 134C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-normalize-url\node_modules\postcss\docs\guidelines\runner.md121436361000000000 0
 118C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-normalize-url\node_modules\has-flag\index.js131593941750000000 0
 133C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-calc\node_modules\chalk\node_modules\supports-color\license131408182550000000 0
-87C:\Users\allys\parcelCSS\style-guide-template-parcel\build\wireframe-large.df066ff5.png132785425990949587 0
+87C:\Users\allys\parcelCSS\style-guide-template-parcel\build\wireframe-large.df066ff5.png132786273998907459 0
 122C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-normalize-url\node_modules\has-flag\package.json132785390121247769 0
 79C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\lodash\pad.js121436361000000000 0
 83C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\lodash\shuffle.js121436361000000000 0
@@ -9994,7 +9995,7 @@
 117C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-modules\node_modules\source-map\lib\util.js131509318790000000 0
 134C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-normalize-repeat-style\node_modules\postcss\lib\postcss.d.ts121436361000000000 0
 135C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\stringify.js121436361000000000 0
-78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-7.efa0e026.svg132785425990889706 0
+78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-7.efa0e026.svg132786273998937156 0
 137C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-normalize-repeat-style\node_modules\postcss\lib\previous-map.js121436361000000000 0
 134C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-normalize-repeat-style\node_modules\postcss\lib\processor.js121436361000000000 0
 131C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-normalize-repeat-style\node_modules\postcss\lib\result.js121436361000000000 0
@@ -10745,7 +10746,7 @@
 111C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js\modules\esnext.async-iterator.from.js121436361000000000 0
 125C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-modules-scope\node_modules\postcss\lib\stringify.js121436361000000000 0
 110C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\http-proxy-middleware\dist\handlers\index.js121436361000000000 0
-78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-2.74505a7a.svg132785425990859774 0
+78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-2.74505a7a.svg132786273998950620 0
 110C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@babel\runtime\helpers\esm\getPrototypeOf.js121012626000000000 0
 122C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\css-declaration-sorter\node_modules\postcss\CHANGELOG.md121436361000000000 0
 134C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-modules-scope\node_modules\postcss\lib\terminal-highlight.js121436361000000000 0
@@ -11959,7 +11960,7 @@
 112C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-merge-longhand\dist\lib\hasAllProps.js121436361000000000 0
 110C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\jsdom\lib\jsdom\living\constraint-validation132785390011242057 1
 113C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-merge-longhand\dist\lib\isCustomProp.js121436361000000000 0
-85C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-download.43a1d2d2.svg132785425990859774 0
+85C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-download.43a1d2d2.svg132786273998917431 0
 110C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-merge-longhand\dist\lib\minifyWsc.js121436361000000000 0
 110C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\postcss-merge-longhand\dist\lib\numValues.js121436361000000000 0
 102C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\is-number-object\.github\FUNDING.yml121436361000000000 0
@@ -13588,7 +13589,7 @@
 84C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\lodash\overArgs.js121436361000000000 0
 85C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\lodash\overEvery.js121436361000000000 0
 106C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js\stable\array\virtual\for-each.js121436361000000000 0
-81C:\Users\allys\parcelCSS\style-guide-template-parcel\build\index.fd58574d.css.map132785425991109109 0
+81C:\Users\allys\parcelCSS\style-guide-template-parcel\build\index.fd58574d.css.map132786273999020416 0
 84C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\lodash\overSome.js121436361000000000 0
 96C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js\stable\instance\map.js121436361000000000 0
 87C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\create-ecdh\readme.md121436361000000000 0
@@ -15005,7 +15006,7 @@
 92C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\is-typedarray\package.json132785390126763009 0
 87C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\is-typedarray\test.js130461234390000000 0
 94C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\is-typed-array\.eslintignore121436361000000000 0
-69C:\Users\allys\parcelCSS\style-guide-template-parcel\build\index.html132785425991079227 0
+69C:\Users\allys\parcelCSS\style-guide-template-parcel\build\index.html132786273998990509 0
 90C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\is-typed-array\.eslintrc121436361000000000 0
 100C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\is-typed-array\.github\FUNDING.yml121436361000000000 0
 109C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\caniuse-lite\data\features\link-icon-svg.js121436361000000000 0
@@ -15748,8 +15749,8 @@
 100C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\highlight.js\lib\languages\diff.js121436361000000000 0
 102C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\highlight.js\lib\languages\django.js121436361000000000 0
 106C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\highlight.js\lib\languages\dockerfile.js121436361000000000 0
-99C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\highlight.js\lib\languages\dos.js121436361000000000 0
 108C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\core-js\features\function\virtual\index.js121436361000000000 0
+99C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\highlight.js\lib\languages\dos.js121436361000000000 0
 99C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\highlight.js\lib\languages\dts.js121436361000000000 0
 100C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\highlight.js\lib\languages\dust.js121436361000000000 0
 102C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\highlight.js\lib\languages\elixir.js121436361000000000 0
@@ -17365,7 +17366,7 @@
 119C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\index.js121436361000000000 0
 119C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\media.js121436361000000000 0
 112C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\csso\node_modules\css-tree\lib\parser\index.js121436361000000000 0
-78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-4.222e6830.svg132785425990869749 0
+78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-4.222e6830.svg132786273998940612 0
 115C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\csso\node_modules\css-tree\lib\parser\sequence.js121436361000000000 0
 111C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\csso\node_modules\css-tree\lib\lexer\error.js121436361000000000 0
 123C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\csso\node_modules\css-tree\lib\lexer\generic-an-plus-b.js121436361000000000 0
@@ -20962,7 +20963,7 @@
 101C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@parcel\babylon-walk\lib\explode.js121436361000000000 0
 99C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@parcel\babylon-walk\lib\scope.js121436361000000000 0
 103C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@parcel\babylon-walk\lib\traverse2.js121436361000000000 0
-77C:\Users\allys\parcelCSS\style-guide-template-parcel\build\index.fd58574d.css132785425991069240 0
+77C:\Users\allys\parcelCSS\style-guide-template-parcel\build\index.fd58574d.css132786273998990509 0
 94C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@parcel\babel-preset-env\lib132785390022930404 1
 98C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@parcel\babel-preset-env\LICENSE121436361000000000 0
 103C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@parcel\babel-preset-env\package.json132785390115315652 0
@@ -21571,7 +21572,7 @@
 125C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@babel\plugin-transform-block-scoped-functions\lib\index.js121012626000000000 0
 116C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@babel\plugin-transform-async-to-generator\LICENSE121012626000000000 0
 118C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@babel\plugin-transform-async-to-generator\README.md121012626000000000 0
-83C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-select.f8d42744.svg132785425990919677 0
+83C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-select.f8d42744.svg132786256006750915 0
 121C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@babel\plugin-transform-async-to-generator\lib\index.js121012626000000000 0
 115C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@babel\plugin-transform-arrow-functions\README.md121012626000000000 0
 101C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\@babel\plugin-syntax-typescript\lib132785390008579184 1
@@ -21919,14 +21920,14 @@
 76C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\.bin\which132785390138240119 0
 80C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\.bin\which.cmd132785390138240119 0
 80C:\Users\allys\parcelCSS\style-guide-template-parcel\node_modules\.bin\which.ps1132785390138240119 0
-65C:\Users\allys\parcelCSS\style-guide-template-parcel\build\assets132785425991089167 1
-78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-3.bcc4af98.svg132785425990869749 0
-78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-5.dd0f77d5.svg132785425990879726 0
-78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-6.259c8c0a.svg132785425990869749 0
-78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-8.ef29f1a8.svg132785425990829874 0
-76C:\Users\allys\parcelCSS\style-guide-template-parcel\build\index.9626f0bb.js132785425991079227 0
-80C:\Users\allys\parcelCSS\style-guide-template-parcel\build\index.9626f0bb.js.map132785425991119094 0
-76C:\Users\allys\parcelCSS\style-guide-template-parcel\build\index.aaafe13f.js132785425991079227 0
-76C:\Users\allys\parcelCSS\style-guide-template-parcel\build\logo.272a18c5.svg132785425990939605 0
-87C:\Users\allys\parcelCSS\style-guide-template-parcel\build\wireframe-small.5b6b76ca.png132785425990989430 0
-90C:\Users\allys\parcelCSS\style-guide-template-parcel\build\assets\assets-download-file.zip132785425991059270 0
+65C:\Users\allys\parcelCSS\style-guide-template-parcel\build\assets132786273998970552 1
+78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-3.bcc4af98.svg132786273998940612 0
+78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-5.dd0f77d5.svg132786273998940612 0
+78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-6.259c8c0a.svg132786273998940612 0
+78C:\Users\allys\parcelCSS\style-guide-template-parcel\build\icon-8.ef29f1a8.svg132786273998960585 0
+76C:\Users\allys\parcelCSS\style-guide-template-parcel\build\index.9626f0bb.js132786273998990509 0
+80C:\Users\allys\parcelCSS\style-guide-template-parcel\build\index.9626f0bb.js.map132786273999020416 0
+76C:\Users\allys\parcelCSS\style-guide-template-parcel\build\index.aaafe13f.js132786273998990509 0
+76C:\Users\allys\parcelCSS\style-guide-template-parcel\build\logo.272a18c5.svg132786258273279245 0
+87C:\Users\allys\parcelCSS\style-guide-template-parcel\build\wireframe-small.5b6b76ca.png132786273998887524 0
+90C:\Users\allys\parcelCSS\style-guide-template-parcel\build\assets\assets-download-file.zip132786273998950620 0

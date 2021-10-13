@@ -48,113 +48,6 @@ table {
 }
 /* -------------------------------- 
 
-xBackground 
-
--------------------------------- */
-body {
-  /* this is the page background */
-  background-color: #D4CAC4;
-}
-/* -------------------------------- 
-
-xPatterns
-
--------------------------------- */
-.cd-box {
-  /* this is the container of various design elements - i.e. the 2 logo of the branding section */
-  border: 1px solid #A6988D;
-  border-radius: 3px;
-  background: #D4CAC4;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
-  padding: 6px;
-}
-/* -------------------------------- 
-
-xNavigation 
-
--------------------------------- */
-header {
-  background-color: #0D1F2D;
-}
-.cd-logo {
-  /* logo box style */
-  background-color: #756858;
-  width: 120px;
-}
-@media only screen and (min-width: 1024px) {
-  .cd-logo {
-    width: 180px;
-  }
-}
-.cd-main-nav {
-  /* main navigation background color - full screen on small devices */
-  background: #0D1F2D;
-}
-.cd-main-nav li a {
-  color: #D4CAC4;
-  border-color: #132d41;
-}
-@media only screen and (min-width: 1024px) {
-  .cd-main-nav li a {
-    color: #3f8cc7;
-  }
-  .cd-main-nav li a.selected {
-    color: #D4CAC4;
-    box-shadow: 0 2px 0 #756858;
-  }
-  .cd-main-nav li a:hover {
-    color: #D4CAC4;
-  }
-}
-.cd-nav-trigger span {
-  /* hamburger menu */
-  background-color: #D4CAC4;
-}
-.cd-nav-trigger span::before, .cd-nav-trigger span::after {
-  /* upper and lower lines */
-  background-color: #D4CAC4;
-}
-.nav-is-visible .cd-nav-trigger span {
-  /* hide line in the center on mobile when nav is visible */
-  background-color: rgba(212, 202, 196, 0);
-}
-.nav-is-visible .cd-nav-trigger span::before, .nav-is-visible .cd-nav-trigger span::after {
-  /* preserve visibility of upper and lower lines - close icon */
-  background-color: #d4cac4;
-}
-.cd-download {
-  /* download button top-right visible on big devices */
-  background-color: #183a55;
-}
-.no-touch .cd-download:hover {
-  background-color: #1e4868;
-}
-.cd-download span {
-  /* tooltip */
-  background: #756858;
-  color: #D4CAC4;
-}
-.cd-download span::before {
-  /* right arrow color */
-  border-color: #756858;
-}
-/* -------------------------------- 
-
-xPage title 
-
--------------------------------- */
-main > h1 {
-  color: #0D1F2D;
-  font-family: "Cinzel Decorative", serif;
-}
-@media only screen and (min-width: 1600px) {
-  main > h1 {
-    /* title goes into the header on big devices */
-    color: #D4CAC4;
-  }
-}
-/* -------------------------------- 
-
 xTypography 
 
 -------------------------------- */
@@ -214,6 +107,78 @@ p a {
 }
 /* -------------------------------- 
 
+xNavigation 
+
+-------------------------------- */
+header {
+  background-color: #0d1f2d;
+}
+.cd-logo {
+  /* logo box style */
+  background-color: #5f8ee4;
+  width: 120px;
+}
+@media only screen and (min-width: 1024px) {
+  .cd-logo {
+    width: 180px;
+  }
+}
+.cd-main-nav {
+  /* main navigation background color - full screen on small devices */
+  background: #0d1f2d;
+}
+.cd-main-nav li a {
+  color: #ffffff;
+  border-color: #262627;
+}
+@media only screen and (min-width: 1024px) {
+  .cd-main-nav li a {
+    color: white;
+  }
+
+  .cd-main-nav li a.selected {
+    color: #ffffff;
+    box-shadow: 0 2px 0 #5f8ee4;
+  }
+
+  .no-touch .cd-main-nav li a:hover {
+    color: #ffffff;
+  }
+}
+.cd-nav-trigger span {
+  /* hamburger menu */
+  background-color: #ffffff;
+}
+.cd-nav-trigger span::before, .cd-nav-trigger span::after {
+  /* upper and lower lines */
+  background-color: #ffffff;
+}
+.nav-is-visible .cd-nav-trigger span {
+  /* hide line in the center on mobile when nav is visible */
+  background-color: rgba(255, 255, 255, 0);
+}
+.nav-is-visible .cd-nav-trigger span::before, .nav-is-visible .cd-nav-trigger span::after {
+  /* preserve visibility of upper and lower lines - close icon */
+  background-color: white;
+}
+.cd-download {
+  /* download button top-right visible on big devices */
+  background-color: #323234;
+}
+.no-touch .cd-download:hover {
+  background-color: #3f3f41;
+}
+.cd-download span {
+  /* tooltip */
+  background: #5f8ee4;
+  color: #ffffff;
+}
+.cd-download span::before {
+  /* right arrow color */
+  border-color: #5f8ee4;
+}
+/* -------------------------------- 
+
 xButtons 
 
 -------------------------------- */
@@ -266,133 +231,40 @@ xButtons
 }
 /* -------------------------------- 
 
-xIcons 
+xBackground 
 
 -------------------------------- */
-.cd-icons li {
-  /* icons size */
-  width: 32px;
-  height: 32px;
+body {
+  /* this is the page background */
+  background-color: #D4CAC4;
 }
 /* -------------------------------- 
 
-xForm 
+xPatterns
 
 -------------------------------- */
-input[type=text],
-select {
+.cd-box {
+  /* this is the container of various design elements - i.e. the 2 logo of the branding section */
   border: 1px solid #A6988D;
-  border-radius: 0.25em;
-  background: #D4CAC4;
-}
-input[type=text]:focus,
-select:focus {
-  outline: none;
-}
-input[type=text] {
-  padding: 0.6em 1em;
-  box-shadow: inset 1px 1px rgba(0, 0, 0, 0.03);
-}
-input[type=text].success {
-  border-color: white;
-  box-shadow: 0 0 6px rgba(255, 255, 255, 0.2);
-}
-input[type=text].alert {
-  border-color: #550527;
-  box-shadow: 0 0 6px rgba(85, 5, 39, 0.2);
-}
-input[type=text]:focus {
-  border-color: #756858;
-  box-shadow: 0 0 6px rgba(117, 104, 88, 0.2);
-}
-input[type=radio],
-input[type=checkbox] {
-  position: absolute;
-  left: 0;
-  top: 0;
-  margin: 0;
-  padding: 0;
-  opacity: 0;
-}
-.radio-label,
-.checkbox-label {
-  padding-left: 24px;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
-.radio-label::before, .radio-label::after,
-.checkbox-label::before,
-.checkbox-label::after {
-  /* custom radio and check boxes */
-  content: "";
-  display: block;
-  width: 16px;
-  height: 16px;
-  position: absolute;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -moz-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  -o-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-.radio-label::before,
-.checkbox-label::before {
-  left: 0;
-  border: 1px solid #A6988D;
-  box-shadow: inset 1px 1px rgba(0, 0, 0, 0.03);
-}
-.radio-label::after,
-.checkbox-label::after {
-  left: 3px;
-  background: url("icon-check.e36d4d8a.svg") no-repeat center center;
-  display: none;
-}
-.radio-label::before {
-  border-radius: 50%;
-}
-.checkbox-label::before {
   border-radius: 3px;
+  background: #D4CAC4;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  padding: 6px;
 }
-input[type=radio]:checked + label::before,
-input[type=checkbox]:checked + label::before {
-  background-color: #0D1F2D;
-  border: none;
-  box-shadow: none;
+/* -------------------------------- 
+
+xPage title 
+
+-------------------------------- */
+main > h1 {
+  color: #0D1F2D;
+  font-family: "Cinzel Decorative", serif;
 }
-input[type=radio]:checked + label::after,
-input[type=checkbox]:checked + label::after {
-  display: block;
-}
-.cd-select::after {
-  /* switcher arrow for select element */
-  content: "";
-  position: absolute;
-  z-index: 1;
-  right: 14px;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -moz-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  -o-transform: translateY(-50%);
-  transform: translateY(-50%);
-  display: block;
-  width: 16px;
-  height: 16px;
-  background: url("icon-select.f8d42744.svg") no-repeat center center;
-  pointer-events: none;
-}
-select {
-  position: relative;
-  padding: 0.6em 2em 0.6em 1em;
-  cursor: pointer;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  -ms-appearance: none;
-  -o-appearance: none;
-  appearance: none;
+@media only screen and (min-width: 1600px) {
+  main > h1 {
+    /* title goes into the header on big devices */
+    color: #D4CAC4;
+  }
 }
 /* -------------------------------- 
 

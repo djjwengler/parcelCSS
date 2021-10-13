@@ -23,29 +23,29 @@ header {
     background: #0d1f2d;
   }
   .cd-main-nav li a {
-    color: #ffffff;
+    color: lighten($color-5, 5%);
     border-color: #262627;
   }
   @media only screen and (min-width: 1024px) {
     .cd-main-nav li a {
-      color: white;
+      color: lighten($color-5, 5%);
     }
     .cd-main-nav li a.selected {
-      color: #ffffff;
+      color: lighten($color-5, 5%);
       box-shadow: 0 2px 0 #5f8ee4;
     }
     .no-touch .cd-main-nav li a:hover {
-      color: #ffffff;
+      color: lighten($color-5, 5%);
     }
   }
   
   .cd-nav-trigger span {
     /* hamburger menu */
-    background-color: #ffffff;
+    background-color: lighten($color-5, 5%);
   }
   .cd-nav-trigger span::before, .cd-nav-trigger span::after {
     /* upper and lower lines */
-    background-color: #ffffff;
+    background-color: lighten($color-5, 5%);
   }
   
   .nav-is-visible .cd-nav-trigger span {
@@ -54,7 +54,7 @@ header {
   }
   .nav-is-visible .cd-nav-trigger span::before, .nav-is-visible .cd-nav-trigger span::after {
     /* preserve visibility of upper and lower lines - close icon */
-    background-color: white;
+    background-color: lighten($color-5, 5%);
   }
   
   .cd-download {
@@ -73,3 +73,18 @@ header {
     /* right arrow color */
     border-color: #5f8ee4;
   }
+  .cd-box h3{
+    color: $color-2;
+  }
+  .cd-primary-nav a, .cd-other-nav a{
+      color: $color-2;
+  }
+  .cd-primary-nav a:visited, .cd-other-nav a:visited{
+    color: $color-3;
+}
+  .cd-primary-nav a:hover, .cd-other-nav a:hover{
+    color: white;
+}
+.cd-primary-nav a:active, .cd-other-nav a:active{
+    color: $color-3;
+}

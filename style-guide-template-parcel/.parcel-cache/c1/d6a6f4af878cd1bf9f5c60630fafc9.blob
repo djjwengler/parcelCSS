@@ -1,18 +1,14 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link
-      href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Merriweather"
-      rel="stylesheet"
-      type="text/css"
-    />
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Merriweather" rel="stylesheet" type="text/css">
 
-    <link rel="stylesheet" href="scss/style-guide.scss" />
+    <link rel="stylesheet" href="/index.HASH_REF_0d8524a15cd50b7f068fb1cefd58574d.css">
     <!-- Resource style -->
-    <script src="js/modernizr.js"></script>
+    <script src="/index.HASH_REF_d1d6d1f9d6c205aa98cd1216aaafe13f.js"></script>
     <!-- Modernizr -->
     <title>Style Guide | CodyHouse</title>
   </head>
@@ -20,7 +16,7 @@
     <header>
 <<<<<<< HEAD
 =======
-      <div class="cd-logo"><img src="assets/logo.svg" alt="Logo" /></div>
+      <div class="cd-logo"><img src="/logo.HASH_REF_e9bef47016e29016e411f31c272a18c5.svg" alt="Logo"></div>
 <h1>Cynthia Rawlings</h1>
 >>>>>>> 143b580a592b51375c1519fa56a078a768b69c30
       <nav>
@@ -36,9 +32,7 @@
         <!-- cd-main-nav -->
       </nav>
 
-      <a href="assets/assets-download-file.zip" class="cd-download"
-        ><span>Download assets</span></a
-      >
+      <a href="/assets/assets-download-file.zip" class="cd-download"><span>Download assets</span></a>
       <a href="#0" class="cd-nav-trigger">Menu<span></span></a>
     </header>
 
@@ -131,15 +125,15 @@
           <p>
            Background images:
           
-          <ul>
+          </p><ul>
             <li><a href="https://unsplash.com/photos/xt79nQxc9Q0">Background</a>
               </li>
-          </ul></p>
+          </ul><p></p>
           <br>
           <p>
             Possible images:
           
-          <ul>
+          </p><ul>
             <li>
               <a href="https://unsplash.com/photos/soLEw77Napo">Camera</a>
             </li>
@@ -158,7 +152,7 @@
             <li>
               <a href="https://unsplash.com/photos/ElyQardHsRs">Vintage Car</a>
             </li>
-          </ul></p>
+          </ul><p></p>
         </div>
       </section>
 
@@ -166,17 +160,17 @@
         <h2>Wireframes</h2>
         <div class="cd-box">
           <figure>
-            <img src="assets/wireframe-small.png" alt="Small screen wireframe" />
+            <img src="/wireframe-small.HASH_REF_9295696175448fe7213eab5d5b6b76ca.png" alt="Small screen wireframe">
             <figcaption>Small screen</figcaption>
           </figure>
           <figure>
-            <img src="assets/wireframe-large.png" alt="Large screen wireframe" />
+            <img src="/wireframe-large.HASH_REF_b0a1ecc8935be05dcb22bec6df066ff5.png" alt="Large screen wireframe">
             <figcaption>Large screen</figcaption>
           </figure>
         </div>
       </section>
     </main>
 
-    <script src="js/main.js"></script>
+    <script src="/index.HASH_REF_9c44180a18ad66eda0f30d699626f0bb.js"></script>
   </body>
 </html>
